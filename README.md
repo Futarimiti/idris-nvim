@@ -1,8 +1,8 @@
 Idris mode for vim
 ==================
 
-This is an [Idris][] mode for vim which features syntax highlighting, indentation
-and optional syntax checking via [Syntastic][]. If you need a REPL I recommend using
+This is an [Idris][] mode for vim which features syntax highlighting and indentation.
+If you need a REPL I recommend using
 [Vimshell][].
 
 ![Screenshot](http://raichoo.github.io/images/vim.png)
